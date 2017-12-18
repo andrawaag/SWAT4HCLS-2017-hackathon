@@ -14,7 +14,7 @@ Continuing on the SWAT4HCLS tutorial on deeplearning a group of participants con
 ![knime workflow](./screendumps/knime.png)
 
 ### Predict breast cancer markers
-Next to the Knime work, the participants also worked on  a [Jupyter Notebook](Predict breast cancer markers.ipynb) which predicts breast cancer markers.
+Next to the Knime work, the participants also worked on  a [Jupyter Notebook](./Predict breast cancer markers.ipynb) which predicts breast cancer markers.
 
 ## Wikidata
 ### Templates for federated queries using Wikidata as a source.
