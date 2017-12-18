@@ -7,6 +7,8 @@ During the hackathon Leyla Garcia wrote a Shape Expression to validate a [biosch
 ## BYOD ShExathon
 [ShEx Online Validator](http://rawgit.com/shexSpec/shex.js/wikidata/doc/shex-simple.html?#) is a ShEx validator build on top of the ShEx.js implementation. The pre-SWAT4HCLS implemantation lacked a feature to store the final results. During the hackathon a feature was added to the ShEx onoline validator, which allows downloading the ShEx results in json for downstream processing after a submitted ShEx was applied on a dataset tested for conformance. 
 
+![shex_screendump](./screendumps/shex_validator.png)
+
 
 ## Deep Neural Networks for Analysing Cancer Genomics Data
 ### Using Knime
@@ -15,6 +17,8 @@ Continuing on the SWAT4HCLS tutorial on deeplearning a group of participants con
 
 ### Predict breast cancer markers
 Next to the Knime work, the participants also worked on  a [Jupyter Notebook](./Predict_breast_cancer_markers.ipynb) which predicts breast cancer markers.
+
+![jupyter](./screendumps/jupyter_notebook.png)
 
 ## Wikidata
 ### Templates for federated queries using Wikidata as a source.
