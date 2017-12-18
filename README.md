@@ -10,6 +10,7 @@ During the hackathon Leyla Garcia wrote a Shape Expression to validate a [biosch
 
 ## Deep Neural Networks for Analysing Cancer Genomics Data
 ### Using Knime
+![knime workflow](./screendumps/knime.png)
 
 ### Predict breast cancer markers
 
