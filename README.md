@@ -22,7 +22,7 @@ Next to the Knime work, the participants also worked on  a [Jupyter Notebook](./
 
 ## Wikidata
 ### Templates for federated queries using Wikidata as a source.
-During the hackathon a group explored the possibilities of writing federated queries against the SPARQL endpoints of Wikidata, the RIKEN institute and the or the SPARQL endpoints of the RIKEN institute and the [NDBC RDF Portal](https://integbio.jp/rdf/). This resulted in a set of [templates for federated queries sourcing Wikidata]( https://etherpad.wikimedia.org/p/wikidatafedqueries)
+During the hackathon a group explored the possibilities of writing federated queries against the SPARQL endpoints of Wikidata, the RIKEN institute and the or the SPARQL endpoints of the [RIKEN institute](http://metadb.riken.jp/) and the [NDBC RDF Portal](https://integbio.jp/rdf/). This resulted in a set of [templates for federated queries sourcing Wikidata]( https://etherpad.wikimedia.org/p/wikidatafedqueries)
 
 ## Mapping HPO, LOINC and SNOMED
 The hackathon also lead to discussions on mapping [LOINC](https://loinc.org/)  and the [Human Phenotype Ontology](http://human-phenotype-ontology.github.io/). SNOMED was recognised as a potential source for enrichment of the HPO-LOINC mapping. 
